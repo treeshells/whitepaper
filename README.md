@@ -236,7 +236,7 @@ Token-S去中心化钱包通过助记词或私钥，可导入创建多个钱包�
 
 幸福公链（新加坡），由新加坡海丝链基金会运营管理
 源码地址：https://github.com/wabei 
-官网地址：www.bitxf.org  
+官网地址：www.liananhjb.org  
 联系邮箱：XF@bitwa.org 
 
 
