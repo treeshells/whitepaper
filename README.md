@@ -2,8 +2,6 @@
 ### <div align=center></div> 
 ## <div align=center>更安全的去中心化电子现金体系</div>
 ### <div align=center>v1.0</div>
-
-#### <div align=center><img src="./images/fisco.png" width = "256" height = "59" ></div>
 ### <div align=center>**Github**:[https://github.com/wabei](https://github.com/wabei)</div>
 
 ### <div align=center>2018年7月</div>  
@@ -231,14 +229,14 @@ Token-S去中心化钱包通过助记词或私钥，可导入创建多个钱包�
   
 ## 关于我们  
 树贝公链（新加坡），由新加坡树贝公共基金会运营管理
-源码地址：https://github.com/wabei  
+源码地址：https://github.com/wabei/go-treecoin  
 官网地址：www.bitwa.org  
 联系邮箱：service@bitwa.org  
 
 幸福公链（新加坡），由新加坡海丝链基金会运营管理
-源码地址：https://github.com/wabei 
+源码地址：https://github.com/wabei/go-hapcoin
 官网地址：www.liananhjb.org  
-联系邮箱：XF@bitwa.org 
+联系邮箱：hap@bitwa.org
 
 
  
