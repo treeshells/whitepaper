@@ -233,7 +233,7 @@ Token-S去中心化钱包通过助记词或私钥，可导入创建多个钱包�
 官网地址：www.bitwa.org  
 联系邮箱：service@bitwa.org  
 
-幸福公链（新加坡），由新加坡海丝链基金会运营管理
+幸福公链（新加坡），由新加坡海丝基金会运营管理
 源码地址：https://github.com/wabei/go-hapcoin
 官网地址：www.liananhjb.org  
 联系邮箱：hap@bitwa.org
