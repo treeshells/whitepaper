@@ -230,11 +230,13 @@ Token-S去中心化钱包通过助记词或私钥，可导入创建多个钱包�
 ## 关于我们  
 树贝公链（新加坡），由新加坡树贝公共基金会运营管理
 源码地址：https://github.com/wabei/go-treecoin  
+在线钱包：http://wallet.bitwa.org(与挖矿客户端配套使用）
 官网地址：www.bitwa.org  
 联系邮箱：service@bitwa.org  
 
 幸福公链（新加坡），由新加坡海丝基金会运营管理
 源码地址：https://github.com/wabei/go-hapcoin
+在线钱包：http://hwallet.bitwa.org(与挖矿客户端配套使用）
 官网地址：www.liananhjb.org  
 联系邮箱：hap@bitwa.org
 
