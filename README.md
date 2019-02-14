@@ -229,9 +229,9 @@ Token-S去中心化钱包通过助记词或私钥，可导入创建多个钱包�
   
 ## 关于我们  
 汉源公链（新加坡），由中国内蒙古汉森集团运营
-源码地址：https://github.com/wabei/go-trc  
+源码地址：https://github.com/wabei/go-hsc  
 在线钱包：http://wallet.bitwa.org(与挖矿客户端配套使用）
-浏览器地址：www.trcexplorer.com
+浏览器地址：www.hscexplorer.com
 官网地址：www.bitwa.org  
 联系邮箱：service@bitwa.org  
 
