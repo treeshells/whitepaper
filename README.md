@@ -300,7 +300,7 @@ Token-S去中心化钱包通过助记词或私钥，可导入创建多个钱包�
 联系邮箱：service@bitwa.org 
 
 树贝链（待定）
-源码地址：github.com/treecoin
+源码地址：github.com/treeshells
 
 
  
